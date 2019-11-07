@@ -3,6 +3,7 @@ import uuid from 'uuid'  //para generar un id unico
 import PropTypes from 'prop-types'
 
 class AgregarCita extends Component {
+  
 
   //ref:
   nombreMascotaRef = React.createRef()
@@ -10,6 +11,7 @@ class AgregarCita extends Component {
   fechaRef = React.createRef()
   horaRef = React.createRef()
   sintomasRef = React.createRef()
+  //hola amigos de youtube
 
   state = {}
 
